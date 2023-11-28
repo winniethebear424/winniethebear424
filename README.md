@@ -1,17 +1,17 @@
 <h2 align="center"> 👋 Hi, there, I am Wen (Venni) Yu </h2>
 <h3 align="center"> I'm seeking 2024 SDE Internship & Co-op Opportunities </h3>
 
-### A little bit about me:
+### ✨ A little bit about me ✨:
 Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate about serverless AWS Lambda and Java OOD.
 - 🔭 My current roles: Student Ambassador @NEU | Teaching Assistant | Founder | Women Techmakers Ambassador @Google |
 - 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Apr 2025)
-- 👯 Fun Facts:
+- 👯 Fun Facts:<br>
   (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle.
-  #### I care about the world's development,
+  #### I care about the world's development. 🔭
   (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).
-  #### I have good stamina.
+  #### I have good stamina. ✨
   (3)Built a following of 20,000 fans on streaming platform, and created a community around my passions.
-  #### I am a people person.
+  #### I am a people person. 💬
 
 #### I see myself as a leader, who cares about tech development and women's empowerment 
 - 📫 How to reach me: DM 📱 email-venniyu@gmail.com.
