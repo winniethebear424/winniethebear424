@@ -6,6 +6,7 @@ Driven and self-motivated professional with a strong foundation in software deve
 I'm currently honored to serve as a Women Techmaker Ambassador at Google, where I'm actively involved in advancing women's participation and influence in the world of technology.
 ### Open to collaboration and new opportunities in the dynamic world of technology!
 
+<img src="https://github-readme-stats.vercel.app/api?username=winniethebear424&show_icons=true&theme=ADD_THEME_HERE" width="400">
 #### 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦:
 Programming Languages: Python, Java, JavaScript, C++, HTML, CSS, and TypeScript.
 Frameworks/Libraries: Django, Express, React, NetBeans, Spring, Mocha and Bootstrap.
