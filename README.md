@@ -1,5 +1,5 @@
 # intro
-
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 Driven and self-motivated professional with a strong foundation in software development and product management. With over 2 years of experience as a Technical Project Manager at HUAWEI, I've successfully led App Optimization initiatives that have left a lasting impact, resulting in significant improvements in user satisfaction (80% YOY increase) and substantial sales revenue growth (200%+ MOM increase) for organizations at scale.
 
