@@ -2,28 +2,26 @@
 <h3 align="center"> I'm seeking 2024 SDE Internship & Co-op Opportunities </h3>
 
 ### ✨ A little bit about me ✨:
-Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate about serverless AWS Lambda and Java OOD.
+Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate about serverless AWS Lambda and Java OOD.❤
 - 🔭 My current roles: Student Ambassador @NEU | Teaching Assistant | Founder | Women Techmakers Ambassador @Google |
 - 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Apr 2025)
 - 👯 Fun Facts:<br>
-  (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle.
-  #### I care about the world's development. 🔭
-  (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).
-  #### I have good stamina. ✨
-  (3)Built a following of 20,000 fans on streaming platform, and created a community around my passions.
-  #### I am a people person. 💬
+  (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle. **I care about the world's development.** 🔭
+  (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).**I have good stamina.** ✨
+  (3)Built a following of 20,000 fans on streaming platform, and created a community around my passions. **I am a people person.** 💬
 
 #### I see myself as a leader, who cares about tech development and women's empowerment 
 - 📫 How to reach me: DM 📱 email-venniyu@gmail.com.
 
 ## 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/venni-yu/"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
-
-<a href="https://venniyu.medium.com/"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/7079375_medium%20logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
-
-<a href="mailto:veniyu@gmail.com"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Venni Yu | Gmail" width="35px"/></a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/venni-yu/"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+  
+  <a href="https://venniyu.medium.com/"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/7079375_medium%20logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
+  
+  <a href="mailto:veniyu@gmail.com"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Venni Yu | Gmail" width="35px"/></a>
+  
+</div>
 </br>
 </br>
 
@@ -62,14 +60,10 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 </br>
 
-> 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦:
-> HUAWEI Certified App Developer.
-Tencent Certified Developer (Cloudbase).
-AWS Certified Cloud Practitioner.
-
 
 ## 📈 GitHub Stats 
-
+<div align="center">
 [![Venni's github stats](https://github-readme-stats.vercel.app/api?username=winniethebear424)](https://github.com/winniethebear424)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winniethebear424&layout=compact)](https://github.com/winniethebear424)
+</div>
