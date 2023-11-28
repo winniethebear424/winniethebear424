@@ -42,13 +42,13 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 
->>Frameworks/Libraries：
+>Frameworks/Libraries：
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Framework&logoColor=white) 
 ![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Framework-express.js-informational?style=flat&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 
->>Database：
+>Database：
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Database-JSON-informational?style=flat&logo=JSON&lColor=764ABC)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
