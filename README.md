@@ -53,7 +53,8 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
 ![](https://img.shields.io/badge/Database-JSON-informational?style=flat&logo=JSON&lColor=764ABC)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&color=336791)
->>Tools and Technologies
+
+>Tools and Technologies
 ![](https://img.shields.io/badge/Code-Restful_API-informational?style=flat&logo=restful&logoColor=336791)
 ![](https://img.shields.io/badge/Tool-JWT-informational?style=flat&logo=JWT&color=F05032)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
