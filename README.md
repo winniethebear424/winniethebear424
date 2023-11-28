@@ -6,9 +6,9 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
 - 🔭 My current roles: Student Ambassador @NEU | Teaching Assistant | Founder | Women Techmakers Ambassador @Google |
 - 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Apr 2025)
 - 👯 Fun Facts:<br>
-  (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle. **I care about the world's development.** 🔭
-  (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).**I have good stamina.** ✨
-  (3)Built a following of 20,000 fans on streaming platform, and created a community around my passions. **I am a people person.** 💬
+  (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle. **I care about the world's development.** 🔭<br>
+  (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).**I have good stamina.** ✨<br>
+  (3)Built a following of 20,000 fans on streaming platform, and created a community around my passions. **I am a people person.** 💬<br>
 
 #### I see myself as a leader, who cares about tech development and women's empowerment 
 - 📫 How to reach me: DM 📱 email-venniyu@gmail.com.
