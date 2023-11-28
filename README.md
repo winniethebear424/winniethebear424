@@ -1,12 +1,21 @@
 <h2 align="center"> 👋 Hi, there, I am Wen (Venni) Yu </h2>
-### I'm seeking 2024 SDE Internship & Co-op Opportunities
 
-# intro
+## I'm seeking 2024 SDE Internship & Co-op Opportunities
 
-Driven and self-motivated professional with a strong foundation in software development and product management. With over 2 years of experience as a Technical Project Manager at HUAWEI, I've successfully led App Optimization initiatives that have left a lasting impact, resulting in significant improvements in user satisfaction (80% YOY increase) and substantial sales revenue growth (200%+ MOM increase) for organizations at scale.
+### A little bit about me:
+Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate about serverless AWS Lambda and Java OOD.
+- 🔭 My current roles: Student Ambassador @NEU | Teaching Assistant | Founder | Women Techmakers Ambassador @Google |
+- 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Apr 2025)
+- 👯 Fun Facts:
+  (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle.
+  #### I care about the world's development,
+  (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).
+  #### I have good stamina.
+  (3)Built a following of 20,000 fans on streaming platform, and created a community around my passions.
+  #### I am a people person.
 
-I'm currently honored to serve as a Women Techmaker Ambassador at Google, where I'm actively involved in advancing women's participation and influence in the world of technology.
-### Open to collaboration and new opportunities in the dynamic world of technology!
+#### I see myself as a leader, who cares about tech development and women's empowerment 
+- 📫 How to reach me: DM 📱 email-venniyu@gmail.com.
 
 ## 🤝 Connect with me:
 
