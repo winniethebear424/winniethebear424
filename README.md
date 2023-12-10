@@ -69,4 +69,4 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
 
 
 ## ⚡ Recent GitHub Activity
-[![Venni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winniethebear424&bg_color=white&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false))](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Venni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winniethebear424&bg_color=white&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false))](https://github.com/winniethebear424)
