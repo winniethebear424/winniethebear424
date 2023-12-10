@@ -11,7 +11,7 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
   (3)Built a following of 20,000 fans on streaming platform, and created a community around my passions. **I am a people person.** 💬<br>
 
 #### I see myself as a leader, who cares about tech development and women's empowerment 
-- 📫 How to reach me: DM 📱 email-venniyu@gmail.com.
+- 📫 How to reach me: DM 📱 venniyu@gmail.com.
 
 ## 🤝 Connect with me:
 <div align="center">
@@ -65,6 +65,6 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
 ## 📈 GitHub Stats 
 
 [![Venni's github stats](https://github-readme-stats.vercel.app/api?username=winniethebear424)](https://github.com/winniethebear424)
-
+<img height="180em" src=https://github-readme-streak-stats.herokuapp.com/?user=winniethebear424&theme=white/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winniethebear424&layout=compact)](https://github.com/winniethebear424)
 
