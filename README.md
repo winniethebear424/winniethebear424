@@ -17,7 +17,7 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
 <div align="center">
   <a href="https://www.linkedin.com/in/venni-yu/"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
   
-  <a href="https://medium.com@venniyu/"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/7079375_medium%20logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
+  <a href="https://medium.com/@venniyu /"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/7079375_medium%20logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
   
   <a href="mailto:veniyu@gmail.com"><img align="left" src="https://github.com/winniethebear424/winniethebear424/blob/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Venni Yu | Gmail" width="35px"/></a>
   
