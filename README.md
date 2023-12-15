@@ -2,7 +2,7 @@
 <h3 align="center"> I'm seeking 2024 SDE Internship & Co-op Opportunities </h3>
 
 ### ✨ A little bit about me ✨:
-Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate about serverless AWS Lambda and Java OOD.❤
+Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate coder and Woman leader
 - 🔭 My current roles: Student Ambassador @NEU | Teaching Assistant | Founder | Women Techmakers Ambassador @Google |
 - 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Apr 2025)
 - 👯 Fun Facts:<br>
