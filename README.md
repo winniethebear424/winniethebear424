@@ -1,7 +1,7 @@
 <h2 align="center"> 👋 Hi, there, I am Wen (Venni) Yu </h2>
 <h3 align="center"> I'm seeking 2024 SDE Internship & Co-op Opportunities </h3>
 
-Thanks for the [https://visitor-badge.laobi.icu/badge?page_id=winniethebear424&label=visitors&color=blue&style=flat] special visit
+Thanks for the <img src="https://visitor-badge.laobi.icu/badge?page_id=winniethebear424&label=visitors&color=blue&style=flat"/> special visit
 
 ### ✨ A little bit about me ✨:
 Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate coder and Woman leader
