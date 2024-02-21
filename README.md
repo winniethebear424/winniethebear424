@@ -69,9 +69,4 @@ Highly skilled and results-oriented Software Development Engineer (SDE) with a p
 ## 📈 GitHub Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winniethebear424&layout=compact)](https://github.com/winniethebear424)
 <br>
-[![Venni's github stats](https://github-readme-stats.vercel.app/api?username=winniethebear424)](https://github.com/winniethebear424)
-[![Venni's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=winniethebear424&theme=white/>)](https://github.com/winniethebear424)
 
-
-## ⚡ Recent GitHub Activity
-[![Venni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winniethebear424&bg_color=white&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false))](https://github.com/winniethebear424)
