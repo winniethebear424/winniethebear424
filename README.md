@@ -3,7 +3,6 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=winniethebear424&label=visitors&color=blue&style=flat"/>
 <img src="https://wakatime.com/badge/github/winniethebear424/winniethebear424.svg"/>
-[![wakatime](https://wakatime.com/badge/github/winniethebear424/winniethebear424.svg)](https://wakatime.com/badge/github/winniethebear424/winniethebear424)
 
 ### ✨ A little bit about me ✨:
 Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate coder and Woman leader
