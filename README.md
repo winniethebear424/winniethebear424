@@ -5,7 +5,7 @@
 
 ### ✨ A little bit about me ✨:
 Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate coder and Woman leader
-- 🔭 My current roles: Student Ambassador @NEU | Teaching Assistant | Founder | Women Techmakers Ambassador @Google
+- 🔭 My current roles: Women Techmakers Ambassador @Google
 - 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Apr 2025)
 - 👯 Fun Facts:<br>
   (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle. **I care about the world's development.** 🔭<br>
