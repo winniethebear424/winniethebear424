@@ -6,7 +6,7 @@
 ### ✨ A little bit about me ✨:
 Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate coder and Woman leader
 - 🔭 My current roles: Women Techmakers Ambassador @Google
-- 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Apr 2025)
+- 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Dec 2025)
 - 👯 Fun Facts:<br>
   (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle. **I care about the world's development.** 🔭<br>
   (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).**I have good stamina.** ✨<br>
