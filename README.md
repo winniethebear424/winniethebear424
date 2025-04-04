@@ -3,8 +3,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=winniethebear424&label=visitors&color=blue&style=flat"/>
 <img src="https://wakatime.com/badge/github/winniethebear424/winniethebear424.svg"/>
 
-### ✨ A little bit about me ✨:
-Highly skilled and results-oriented Software Development Engineer (SDE) with a proven track record of successful software development. Quick learner, Passionate coder and Woman leader
+### ✨ About me ✨:
+I am a highly skilled and results-driven Software Development Engineer (SDE) with a proven track record of success in software development. A fast learner, passionate coder, and advocate for women in tech, I pride myself on delivering impactful results.
 - 🔭 My current roles: Women Techmakers Ambassador @Google
 - 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Dec 2025)
 - 👯 Fun Facts:<br>
