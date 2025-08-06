@@ -4,9 +4,9 @@
 <img src="https://wakatime.com/badge/github/winniethebear424/winniethebear424.svg"/>
 
 ### ✨ About me ✨:
-I am a highly skilled and results-driven Software Development Engineer (SDE) with a proven track record of success in software development. A fast learner, passionate coder, and advocate for women in tech, I pride myself on delivering impactful results.
-- 🔭 My current roles: Women Techmakers Ambassador @Google
-- 🌱 Education: Master of Science at Georgia Institute of Technology (estimated graduation date: Dec 2025)
+I am a results-driven Software Development Engineer (SDE) with a proven track record of success in software development. A life long learner, passionate coder.
+
+- 🔭 My current roles: SDE in Amazon
 - 👯 Fun Facts:<br>
   (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle. **I care about the world's development.** 🔭<br>
   (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).**I have good stamina.** ✨<br>
