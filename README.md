@@ -12,7 +12,7 @@ I am a results-driven Software Development Engineer (SDE) with a proven track re
   (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).**I have good stamina.** ✨<br>
   (3)Built a following of 20,000 fans on streaming platform, and created a community around my passions. **I am a people person.** 💬<br>
 
-#### I am a leader who is passionate about tech innovation and world development.
+
 - 📫 How to reach me: DM 📱 venniyu@gmail.com.
 
 ## 🤝 Connect with me:
