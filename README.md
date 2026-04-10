@@ -1,17 +1,9 @@
 <h2 align="center"> 👋 Hi, there, I am Wen (Venni) Yu </h2>
 
+ a results-driven Software Development Engineer (SDE) with a proven track record of success in software development. A life long learner, passionate coder.
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=winniethebear424&label=visitors&color=blue&style=flat"/>
 <img src="https://wakatime.com/badge/github/winniethebear424/winniethebear424.svg"/>
-
-### ✨ About me ✨:
-I am a results-driven Software Development Engineer (SDE) with a proven track record of success in software development. A life long learner, passionate coder.
-
-- 🔭 My current roles: SDE at Amazon
-- 👯 Fun Facts:<br>
-  (1)Volunteered in teaching children in Argentina and contributed to rainforest conservation in the Peruvian Amazon jungle. **I care about the world's development.** 🔭<br>
-  (2)Hiked the Inca Trail to Machu Picchu, covering 31.2 miles (50 km) and reaching an elevation of 13,795 feet (4.205 km).**I have good stamina.** ✨<br>
-  (3)Built a following of 25,000 fans on streaming platform, and created a community around my passions. **I am a people person.** 💬<br>
-
 
 - 📫 How to reach me: DM 📱 venniyu@gmail.com.
 
